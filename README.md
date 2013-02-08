@@ -2,17 +2,8 @@
 
 Refer to the original tutorial on Nettuts+ as well as the screencast.
 
-Travis Build Status:
+Here are some other associated stuff:
 
-[![Build Status](https://travis-ci.org/NETTUTS/team-collaboration-github.png)](https://travis-ci.org/NETTUTS/team-collaboration-github)
-
-The tutorial discusses the following:
-
-1. **Adding Team Members** - Organization & Collaborators
-2. **Pull Requests** - Sending & Merging
-3. **Bug Tracking** - Github Issues
-4. **Analytics** - Graphs & Network
-5. **Project Management** - Trello & Pivotal Tracker
-6. **Continuous Integration** - Travis CI
-7. **Code Review** - Line Commenting & URL queries
-8. **Documenting** - Wiki & Hubot
+1. Travis Build Status: [![Build Status](https://travis-ci.org/NETTUTS/team-collaboration-github.png)](https://travis-ci.org/NETTUTS/team-collaboration-github)
+2. [Trello Board](https://trello.com/board/nettuts-team/511457e89bc4f756710082fb)
+3. Pivotal Tracker

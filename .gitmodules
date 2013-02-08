@@ -1,0 +1,3 @@
+[submodule "team-collaboration-github.wiki"]
+	path = team-collaboration-github.wiki
+	url = git@github.com:NETTUTS/team-collaboration-github.wiki.git
